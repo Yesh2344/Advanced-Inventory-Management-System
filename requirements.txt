@@ -1,2 +1,3 @@
 # No external dependencies required for this project.
 # It only uses standard C++ library components.
+# Updated dependencies

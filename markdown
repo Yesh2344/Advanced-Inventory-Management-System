@@ -59,3 +59,4 @@ This project implements an advanced inventory management system designed for eff
 ## Running the Application
 
 After building the project, the executable `inventory_manager` will be located in the `build` directory.
+
